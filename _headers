@@ -6,6 +6,6 @@
   Cache-Control: public, max-age=31536000, immutable
   Access-Control-Allow-Origin: *
 
-/images/dot/1x1.png
+/probha/images/dot/1x1.png
   Cache-Control: no-store, no-cache, must-revalidate
   Access-Control-Allow-Origin: *
