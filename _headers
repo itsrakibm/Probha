@@ -9,8 +9,8 @@
 /probha/images/dot/1x1.png
   Cache-Control: no-store, no-cache, must-revalidate
   Access-Control-Allow-Origin: *
-/probha/download/*/Theme.xml
+/probha/download/*/Theme-*.xml
   Cache-Control: no-store
   Access-Control-Allow-Origin: *
-  Content-Disposition: attachment; filename="Theme.xml"
+  Content-Disposition: attachment
   Content-Type: application/xml
