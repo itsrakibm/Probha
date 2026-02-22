@@ -1040,7 +1040,7 @@ body#layout div.section h4,body#layout div.section:before{display:block;font-siz
     </a>
   </b:includable>
             <b:includable id='image-banner'>
-              <a expr:href='data:blog.homepageUrl.canonical'><img class='lazy' expr:data-src='data:sourceUrl' src='data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%22310px%22%20height%3D%2270px%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20version%3D%221.1%22%2F%3E'/></a>
+              <a expr:href='data:blog.homepageUrl.canonical'><img class='lazy' expr:data-src='data:sourceUrl' src='data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%22310px%22%20height%3D%2270px%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20version%3D%221.1%22%2F%3E' expr:alt='data:title'/></a>
             </b:includable>
             <b:includable id='title'>
               <a expr:href='data:blog.homepageUrl.canonical'><data:title/></a>
