@@ -1,6 +1,6 @@
 {
-  "status": true,
-  "title": null,
-  "message": null,
+  "status": false,
+  "title": "Fix Required",
+  "message": "We found some content on your blog that doesn’t meet our policy guidelines. Please get in touch with your template developer to fix the issue.",
   "created_at": "2026-03-21T10:58:13.389Z"
 }
