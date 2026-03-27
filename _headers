@@ -10,13 +10,6 @@
   Cache-Control: no-store, no-cache, must-revalidate
   Access-Control-Allow-Origin: *
 
-/probha/download/*
-  Content-Disposition: attachment
-  Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
-  Pragma: no-cache
-  Expires: 0
-  Access-Control-Allow-Origin: *
-
 /probha/download/latest/template.xml
   Content-Type: application/xml
   Content-Disposition: attachment; filename="Probha-Template-v2.1.xml"
