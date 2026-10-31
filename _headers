@@ -17,3 +17,11 @@
   Pragma: no-cache
   Expires: 0
   Access-Control-Allow-Origin: *
+
+/probha/download/olpo/olpo_blogger.xml
+  Content-Type: application/xml
+  Content-Disposition: attachment; filename="Olpo Blogger(October 31, 2026) v1.xml"
+  Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
+  Pragma: no-cache
+  Expires: 0
+  Access-Control-Allow-Origin: *
